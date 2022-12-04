@@ -6,7 +6,7 @@ const cors = require('cors');
 const app = express();
 require('./config/dbConfig');
 
-// para nao ter problema em acessar a apide outro endereco
+// para nao ter problema em acessar a api de outro endereco
 app.use(cors());
 // para usar o response com json, se for send nao precisa desta linha abaixo.
 app.use(express.json());
