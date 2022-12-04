@@ -1,5 +1,5 @@
 #### Instaçôes
-. npm install mongoose
-. npm install express
-. npm install nodemon
-. npm install cors
+* npm install mongoose
+* npm install express
+* npm install nodemon
+* npm install cors
